@@ -74,6 +74,6 @@ See the LICENSE file for full details.
 
 ## 📫 Contact
 
-Made by Muthym
+Made by muthym
 
 Feel free to reach out via GitHub for questions or feedback.
