@@ -9,7 +9,7 @@
 - 🆓 Free and open-source  
 - 🖥️ Text-based yet user-friendly  
 - 💾 Saves scores in a clean TSV (Tab-Separated Values) file
-- 
+
 
 ## 🛠️ Installation
 
@@ -17,24 +17,26 @@ First, clone the repository:
 
 ```bash
 git clone https://github.com/muthym/Quiz-Taker.git
+```
 
 Make sure Lua is installed on your system. To check:
-
+```
 lua -v
+```
 
 If you don’t have Lua, you can download it here.
 
 ## 📦 Usage
 
 Navigate to the project folder and run:
-
+```
 lua qt.lua <filename> <max_score>
-
+```
 
 ## 🔍 Example
-
+```
 lua qt.lua students.tsv 10
-
+```
 This will:
 
     Prompt you to enter student names and scores
