@@ -8,9 +8,8 @@
 
 - 🆓 Free and open-source  
 - 🖥️ Text-based yet user-friendly  
-- 💾 Saves scores in a clean TSV (Tab-Separated Values) file  
-
----
+- 💾 Saves scores in a clean TSV (Tab-Separated Values) file
+- 
 
 ## 🛠️ Installation
 
@@ -24,13 +23,15 @@ Make sure Lua is installed on your system. To check:
 lua -v
 
 If you don’t have Lua, you can download it here.
-📦 Usage
+
+## 📦 Usage
 
 Navigate to the project folder and run:
 
 lua qt.lua <filename> <max_score>
 
-🔍 Example
+
+## 🔍 Example
 
 lua qt.lua students.tsv 10
 
@@ -42,7 +43,8 @@ This will:
 
     Assume the maximum possible score for each quiz is 10
 
-📝 Notes
+
+## 📝 Notes
 
     You can open .tsv files directly in Excel, Google Sheets, etc.
 
@@ -50,7 +52,8 @@ This will:
 
     Input is interactive and straightforward.
 
-🤝 Contributing
+
+## 🤝 Contributing
 
 Got suggestions or improvements? Contributions are welcome! Please:
 
@@ -61,12 +64,14 @@ Got suggestions or improvements? Contributions are welcome! Please:
     Submit a pull request
 
 Or just open an issue to start a discussion.
-📄 License
+
+
+## 📄 License
 
 This project is licensed under the MIT License.
 See the LICENSE file for full details.
 
-📫 Contact
+## 📫 Contact
 
 Made by Muthym
 Feel free to reach out via GitHub for questions or feedback.
