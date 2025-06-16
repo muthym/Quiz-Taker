@@ -24,7 +24,6 @@ Make sure Lua is installed on your system. To check:
 lua -v
 ```
 
-If you don’t have Lua, you can download it here.
 
 ## 📦 Usage
 
